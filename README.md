@@ -1,6 +1,6 @@
 Crime Analysis Dashboard
 
-![Dashboard Screenshot].(Crime-Analysis-Screenshot.png).
+![Dashboard Screenshot](Crime-Analysis-Screenshot.png).
 
 This project presents a dashboard created in Excel to analyze crime data. It helps identify crime patterns based on time, type, location, and victim details.
 
